@@ -8,17 +8,20 @@
 
 - 📊 I enjoy working with data, analyzing trends, and deriving insights using Python, NumPy, Pandas, Matplotlib, and Seaborn.
 
-- 🌱 Currently in my sophomore year, I'm eager to learn and explore new concepts and technologies in the realm of Mathematics and Data Science.
-
+- 🌱 I’m currently learning Advanced Option Pricing Techniques, Comprehensive VaR models, Algorithmic Trading Strategy Development and Backtesting.
+  
+- 🔭 I'm looking forward to working with Predictive Modeling using Machine Learning in Quantitative Finance, Sophisticated Portfolio Optimization with Real-World Constraints.
+  
 - 📫 Let's connect! Feel free to reach out to me on GitHub or LinkedIn.
-
+  
+ 
 
 <!--
 **rishikeshkatakam/rishikeshkatakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
